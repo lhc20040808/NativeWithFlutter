@@ -1,0 +1,2 @@
+rootProject.name = "NativeWithFlutter"
+include ':app'
